@@ -6,9 +6,9 @@ Cameras used: Realsense & Kinect. SDK installation guide for both can be found b
 
 ## 📷 Install Realsense SDK
 
-Installation guide here: [https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
+First follow guide here: [https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
 
-Run `realsense-viewer` to view camera input
+To check if it's correctly installed, open a new terminal and run `realsense-viewer` to view camera input
 
 If `realsense-viewer` command not found, run:
 
@@ -45,3 +45,5 @@ the filenames indicate what data it retrieves from the camera
 `cd Kinect`
 
 Run the bash script, change the ubuntu version to yours `bash install_azure_kinect_camera_u_20.04.sh`
+
+Open a new terminal and run `k4aviewer`
