@@ -1,3 +1,5 @@
+## Not My Original Work, Original Repository: [https://github.com/juancarlosmiranda/azure_kinect_notes/tree/main](https://github.com/juancarlosmiranda/azure_kinect_notes/tree/main) Please give the author a star
+
 ![SOFTWARE_PRESENTATION](https://github.com/juancarlosmiranda/azure_kinect_notes/blob/main/img/azure_kinect_notes_presentation.png?raw=true)
 
 # Azure Kinect camera setup (automated scripts for Linux and Windows)
