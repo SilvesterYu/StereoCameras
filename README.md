@@ -12,12 +12,24 @@ If `realsense-viewer` command not found, run:
 
 `sudo apt-get install librealsense2-dkms librealsense2-utils`
 
-## To Run
+## Environment Setup
 
 Must create a conda environment with python==3.7
 
-Then 
+`conda create -m realsense python=3.7`
+
+`conda activate realsense`
 
 `pip install pyrealsense2`
+
+`pip install opencv-python`
+
+`pip install numpy`
+
+## To Run
+
+
+
+`python3 <filename>.py`
 
 the filenames indicate what data it retrieves from the camera
