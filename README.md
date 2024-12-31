@@ -26,9 +26,11 @@ Must create a conda environment with python==3.7
 
 `pip install numpy`
 
+`pip install Pillow`
+
 ## To Run
 
-
+Create a folder to store images `mkdir images`
 
 `python3 <filename>.py`
 
