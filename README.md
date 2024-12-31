@@ -32,6 +32,8 @@ Finally, create a folder to store images `mkdir images`
 
 ## To Run
 
+`cd RealSense`
+
 `python3 <filename>.py`
 
 the filenames indicate what data it retrieves from the camera
