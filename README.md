@@ -2,7 +2,7 @@
 
 Stereo camera code
 
-## Install Realsense SDK
+## 📷 Install Realsense SDK
 
 Installation guide here: [https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
 
@@ -31,6 +31,8 @@ Must create a conda environment with python==3.7
 Finally, create a folder to store images `mkdir images`
 
 ## To Run
+
+`cd RealSense`
 
 `python3 <filename>.py`
 
