@@ -28,9 +28,9 @@ Must create a conda environment with python==3.7
 
 `pip install Pillow`
 
-## To Run
+Finally, create a folder to store images `mkdir images`
 
-Create a folder to store images `mkdir images`
+## To Run
 
 `python3 <filename>.py`
 
