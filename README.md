@@ -1,6 +1,8 @@
 # StereoCameras
 
-Stereo camera code
+Camera code for 3D reconstruction
+
+Cameras used: Realsense & Kinect. SDK installation guide for both can be found below
 
 ## 📷 Install Realsense SDK
 
@@ -37,3 +39,9 @@ Finally, create a folder to store images `mkdir images`
 `python3 <filename>.py`
 
 the filenames indicate what data it retrieves from the camera
+
+## 📷 Install Kinect SDK
+
+`cd Kinect`
+
+Run the bash script, change the ubuntu version to yours `bash install_azure_kinect_camera_u_20.04.sh`
