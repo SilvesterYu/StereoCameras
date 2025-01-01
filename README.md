@@ -16,7 +16,7 @@ If `realsense-viewer` command not found, run:
 
 Must create a conda environment with python==3.7
 
-`conda create -m realsense python=3.7`
+`conda create -n realsense python=3.7`
 
 `conda activate realsense`
 
