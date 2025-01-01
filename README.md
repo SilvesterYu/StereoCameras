@@ -1,8 +1,6 @@
 # StereoCameras
 
-Camera code for 3D reconstruction
-
-Cameras used: Realsense & Kinect. SDK installation guide for both can be found below
+Camera code for 3D reconstruction. Cameras used: Realsense & Kinect. SDK installation guide for both can be found below. Make sure that the cameras' data cables are connected to your computer's USB3 ports.
 
 ## 📷 Install Realsense SDK
 
