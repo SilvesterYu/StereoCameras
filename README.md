@@ -1,6 +1,6 @@
 # StereoCameras
 
-Camera code for 3D reconstruction. Cameras used: Realsense & Kinect. SDK installation guide for both can be found below. Make sure that the cameras' data cables are connected to your computer's USB3 ports.
+Camera code for 3D reconstruction. Cameras used: Realsense, Kinect, SED. SDK installation guide for both can be found below. Make sure that the cameras' data cables are connected to your computer's USB3 ports.
 
 ## 📷 Install Realsense SDK
 
@@ -45,3 +45,11 @@ the filenames indicate what data it retrieves from the camera
 Run the bash script, change the ubuntu version to yours `bash install_azure_kinect_camera_u_20.04.sh`
 
 Open a new terminal and run `k4aviewer`
+
+## 📷 Install ZED SDK
+
+Installation guide: https://www.stereolabs.com/docs/installation/linux
+
+After installation, `cd /usr/local/zed/tools/`
+
+Then run `./ZED_Explorer`
